@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{ED4D392A-CFD5-41BA-A55D-646CD6BDC997}</ProjectGuid>
+    <ProjectGuid>{E35FA8DF-98CC-4491-9B94-3ED1F8606B82}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>athome</RootNamespace>
+    <RootNamespace>in_lab</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,6 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="w1_lab.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
