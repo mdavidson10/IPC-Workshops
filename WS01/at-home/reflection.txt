@@ -1,0 +1,4 @@
+In this exercise I learned how to print and format text using C. I used 
+printf to display "Welcome to C programming" surrounded by asterisks. I 
+accomplished this by learning how to use the escape character "\n" to 
+terminate the current line and move my text output to a new line.  
