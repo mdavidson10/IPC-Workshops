@@ -1,0 +1,13 @@
+1. The most important thing I learned in this workshop is casting. I 
+think that it is important to know how to change datatypes to suit your 
+needs, like I did in this lab where I used it to print the remaining 
+balance properly.
+
+2. You must add .005 to the GST because this will stop the C compilier 
+from rounding the 13% tax down to 12%.
+
+3. The result of a casting operation is the change of a datatype
+
+4. I think I was required to use the modulus operator to learn how 
+powerful it is. It came very handy when I was calculating the remaining 
+balance left.

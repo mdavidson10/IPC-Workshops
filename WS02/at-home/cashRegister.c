@@ -23,7 +23,7 @@ GST = amtpaid * .13 + 0.005;
 amtpaid += GST;
 
 printf("GST: %.2lf\n", GST);
-printf("Balance Owing: %.2lf\n", amtpaid);
+printf("Balance owing: $%.2lf\n", amtpaid);
 
 loonies = amtpaid;
 amtpaid -= loonies;

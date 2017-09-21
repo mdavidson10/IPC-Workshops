@@ -1,0 +1,14 @@
+Script started on Thu 21 Sep 2017 02:21:58 PM EDT
+14:21 mdavidson10@(B[m[38;5;10mmatrix(B[m[38;5;15m (B[m[38;5;9m~/IPC-Workshops/WS02/at-home(B[m[38;5;15m>(B[mw[Ks
+Please enter the amount to be paid: $8.68
+GST: 1.13
+Balance owing: $9.81
+Loonies required: 9, balance owing $0.81
+Quarters required: 3, balance owing $0.06
+Dimes required: 0, balance owing $0.06
+Nickels required: 1, balance owing $0.01
+Pennies required: 1, balance owing $0.00
+14:22 mdavidson10@(B[m[38;5;10mmatrix(B[m[38;5;15m (B[m[38;5;9m~/IPC-Workshops/WS02/at-home(B[m[38;5;15m>(B[mexit
+exit
+
+Script done on Thu 21 Sep 2017 02:22:07 PM EDT
