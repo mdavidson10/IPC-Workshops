@@ -1,0 +1,61 @@
+/*
+     Name:      Marsdin Davidson 
+     Student#:  121431159
+     Section:   ZZ
+*/
+
+// Start your code below:
+#include <stdio.h>
+int main(void){
+double amtpaid;
+double GST;
+int intBalance;
+int loonies;
+int quarters;
+int dimes;
+int nickels;
+int pennies;
+
+printf("Please enter the amount to be paid: $");
+scanf("%lf", &amtpaid);
+
+GST = amtpaid * .13 + 0.005;
+printf("Balance owing: %.2lf\n", amtpaid);
+amtpaid += GST;
+
+printf("Balance plus GST: %.2lf\n", amtpaid);
+
+loonies = amtpaid;
+amtpaid -= loonies;
+intBalance = amtpaid * 100;
+printf("balance: %d\n", intBalance);
+printf("Loonies required: %d,\n", loonies);
+printf(" balance owing $%.2lf\n", amtpaid);
+
+quarters = intBalance / 25;
+intBalance %= 25;
+
+printf("Quarters required: %d,", quarters);
+printf("balance owing $%d\n", intBalance);
+
+dimes = intBalance / 10;
+intBalance = intBalance % dimes;
+
+printf("Dimes required: %d,", dimes);
+printf(" balance owing $%d\n", amtpaid);
+
+nickels = intBalance / 5;
+intBalance = intBalance % nickels;
+
+printf("Nickels required: %d,", nickels);
+printf(" balance owing $%d\n", amtpaid);
+
+pennies = intBalance / 1;
+intBalance = intBalance % pennies;
+
+printf("Pennies required: %d,", nickels);
+printf(" balance owing $%d\n", amtpaid);
+
+
+return 0;
+}
