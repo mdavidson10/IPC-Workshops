@@ -1,0 +1,8 @@
+1. The three iteration constructs are while, do while, and for
+2. A while loop runs as long as a value is true, and a do while loop runs 1 time before 
+verifying that the condition is true. If it is true, it continues running until it is not 
+true.
+3.This expression uses ? and : as a short way to create alternate program paths, a longhand 
+example being a switch. The operand between the : and ? is ran by the program if a condition 
+is true, and the rightmost operand will run if the condition is false. The syntax is  
+condition ? operand : operand
