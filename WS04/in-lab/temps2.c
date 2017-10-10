@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 int main(void){
 int i;
@@ -27,3 +28,14 @@ for(a=0; a < dayin; a++){
 
 return 0;
 }//Main
+=======
+// Name:
+// Student Number:
+// Email:
+// Section:
+// Workshop:
+
+#define _CRT_SECURE_NO_WARNINGS
+
+// Place your code below
+>>>>>>> upstream/master

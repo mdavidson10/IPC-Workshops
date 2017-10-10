@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 int main(void){
 int i;
@@ -71,3 +72,14 @@ while(whilecatch >= 0){
 return 0;
 
 }//Main
+=======
+// Name:
+// Student Number:
+// Email:
+// Section:
+// Workshop:
+
+#define _CRT_SECURE_NO_WARNINGS
+
+// Place your code below
+>>>>>>> upstream/master

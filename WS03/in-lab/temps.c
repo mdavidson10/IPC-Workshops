@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Name: Marsdin Davidson
 // Student Number: 121431159
 // Email: mdavidson10@myseneca.ca
@@ -58,3 +59,14 @@ return 0;
 }
 
 
+=======
+// Name:
+// Student Number:
+// Email:
+// Section:
+// Workshop:
+
+#define _CRT_SECURE_NO_WARNINGS
+
+// Put your code below:
+>>>>>>> upstream/master
