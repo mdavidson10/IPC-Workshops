@@ -110,7 +110,6 @@ int main(void) {
 					printf("The current salary is: %.2lf", emp.salary[b]);
 					printf("\nEnter Employee New Salary: ");
 					scanf("%lf", &emp.salary[b]);
-					printf("\n");
 					break;
 					}// b = update
 				}//does the number exist?
@@ -123,9 +122,9 @@ int main(void) {
 			printf("===============\n");
 			printf("Enter Employee ID: ");
 			scanf("%d", &update);
-			printf("Employee %d will be removed\n\n", update);
+			printf("Employee %d will be removed\n", update);
 			for(c = 0; c < SIZE; c++){
-				if(emp.id[c] == update){
+				if(emp.id[c] = update){
 				emp.id[c] = 0;
 				emp.salary[c] = 0;
 				emp.age[c] = 0;

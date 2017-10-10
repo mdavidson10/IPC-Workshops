@@ -1,0 +1,9 @@
+1) Structs are better to use than parallel arrays because you can easily refer to each 
+element in a struct because each variable or array defined in the struct is linked to the 
+defined struct name. Parallel arrays are only linked by the data that they contain, which 
+means that it would become more complicated to create similar data using parallel arrays 
+because the programmer would have more work to do as they have to manually recreate each 
+array individually. 
+2) A struct datatype is better defined in a header because a header file can easily be used 
+by multiple files. It makes the code more modular and versatile because a programmer can make 
+changes in the struct which each file that includes the header file.
