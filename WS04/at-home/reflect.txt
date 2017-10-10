@@ -1,0 +1,7 @@
+1) My arrays in this program are not declared to hold 10 elements, but 
+rather the amount that the user chooses.
+2) Advantages of matching arrays is that they are easy to use. One 
+disadvantage of matching arrays is that data might be confused when 
+referencing them.
+3) The at home portion of this workshop is too easy because it was very 
+similar to work I have already completed in this class.
